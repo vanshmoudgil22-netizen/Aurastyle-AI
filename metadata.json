@@ -1,0 +1,6 @@
+{
+  "name": "AuraStyle",
+  "description": "An AI-powered fashion search, stylist recommendation, and smart shopping platform featuring multimodal search, voice stylist chatbot, and custom curated recommendations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
